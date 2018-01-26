@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-var opt = ['assets/js/*.js', 'assets/css/main.css'];
+var opt = ['assets/js/*.js', 'assets/css/*.css'];
   // Project configuration.
    grunt.initConfig({
     injector: {
